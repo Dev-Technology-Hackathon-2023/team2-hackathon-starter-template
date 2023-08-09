@@ -10,7 +10,7 @@ First, clone the template using your favorite terminal
 
 ```bash
 git clone https://github.com/Dev-Technology-Hackathon-2023/team2-hackathon-react-starter.git
-cd hackathon-react-starter/frontend
+cd team2-hackathon-react-starter/frontend
 ```
 
 Next, install the required dependencies
