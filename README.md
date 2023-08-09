@@ -9,7 +9,7 @@ This template is designed to get a full-stack web app up and running with a Reac
 First, clone the template using your favorite terminal
 
 ```bash
-git clone https://github.com/Dev-Technology-Hackathon-2023/hackathon-react-starter.git
+git clone https://github.com/Dev-Technology-Hackathon-2023/team2-hackathon-react-starter.git
 cd hackathon-react-starter/frontend
 ```
 
